@@ -1,0 +1,13 @@
+{
+    "name": "walyoushka/hexlet-php-try",
+    "description": "my-first-try php",
+    "type": "project",
+    "authors": [
+        {
+            "name": "valek",
+            "email": "valekgodovan@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
